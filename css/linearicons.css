@@ -25,7 +25,21 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-.icon-home:before {
+
+.icon-cross2:before {
+	content: "\e935";
+}
+.icon-laptop:before {
+	content: "\e7ad";
+}
+.icon-laptop-phone:before {
+	content: "\e7ae";
+}
+.icon-diamond2:before {
+	content: "\e807";
+}
+
+/* .icon-home:before {
 	content: "\e600";
 }
 .icon-home2:before {
@@ -1312,12 +1326,6 @@
 .icon-tablet2:before {
 	content: "\e7ac";
 }
-.icon-laptop:before {
-	content: "\e7ad";
-}
-.icon-laptop-phone:before {
-	content: "\e7ae";
-}
 .icon-desktop:before {
 	content: "\e7af";
 }
@@ -1581,9 +1589,6 @@
 }
 .icon-diamond:before {
 	content: "\e806";
-}
-.icon-diamond2:before {
-	content: "\e807";
 }
 .icon-diamond3:before {
 	content: "\e808";
@@ -2488,9 +2493,6 @@
 .icon-check:before {
 	content: "\e934";
 }
-.icon-cross2:before {
-	content: "\e935";
-}
 .icon-plus:before {
 	content: "\e936";
 }
@@ -3315,4 +3317,4 @@
 }
 .icon-copyright:before {
 	content: "\a9";
-}
+} */
